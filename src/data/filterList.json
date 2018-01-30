@@ -1,0 +1,5 @@
+[
+	{"desc": "Standard", "default": true, "access": "Public"},
+	{"desc": "My Custom Filter 01", "default": false, "access": "Public"},
+	{"desc": "My Custom Filter 02", "default": false, "access": "Private"}
+]

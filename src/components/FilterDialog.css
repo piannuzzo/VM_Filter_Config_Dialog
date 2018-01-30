@@ -1,0 +1,56 @@
+.FilterDialogContainer {
+	border: 2px solid #CCC;
+	border-radius: 12px;
+	width: 690px;
+}
+
+.FDHeaderContainer{
+	background-color: #DDD;
+	border-bottom: 1px solid #CCC;
+	border-radius: 10px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	padding: .5em 1em;
+}
+
+.FDHeaderContent {
+	font-weight: bold;
+}
+
+.FDControlsContainer {
+	background-color: #EEE;
+	padding: .75em 1em;
+}
+
+.FDContentOuterContainer {
+	overflow: hidden;
+}
+
+.FDContentContainer {
+	border-top: 1px solid #CCC;
+	height: 450px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	padding: 10px;
+}
+
+.FDFooterContainer {
+	background-color: #EEE;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top: 1px solid #CCC;
+	padding: .5em 1em;
+}
+
+.FDFooterButtonsContainer {
+	display: inline-block;
+	width: 100%;
+}
+
+.FDFooterButtonsLeft {
+	float: left;
+}
+
+.FDFooterButtonsRight {
+	float: right;
+}

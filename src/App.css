@@ -1,0 +1,9 @@
+.App {
+	margin: auto;
+	width: 100%;
+}
+
+.App .FilterDialogContainer {
+	margin: auto;
+	margin-top: 10px;
+}
