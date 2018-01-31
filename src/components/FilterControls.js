@@ -32,7 +32,7 @@ class FilterControls extends Component {
 						return (
 							<option key={ix} value={obj.desc}>
 								{obj.desc}
-								{obj.default && " (def)"}
+								{obj.default && " (def.)"}
 							</option>
 						);
 					})}
